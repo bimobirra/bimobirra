@@ -1,6 +1,6 @@
-### Hi there, I'm [Nama Kamu] 👋
+### Hi there, I'm Bimo Birra 👋
 
-I'm a final-year Computer Science student passionate about building full-stack applications and exploring machine learning.
+I'm a third-year Computer Science student passionate about building full-stack applications and exploring machine learning.
 
 ---
 
@@ -9,7 +9,7 @@ I'm a final-year Computer Science student passionate about building full-stack a
 - 🔭 I’m currently working on a personal project combining Spring Boot and Vue.js.
 - 🌱 I’m deepening my knowledge in microservices architecture and cloud deployment.
 - 👯 I’m looking to collaborate on open-source projects related to Java or Python.
-- 📫 How to reach me: [Alamat Email Kamu]
+- 📫 How to reach me: bimobirra42@gmail.com
 - 💼 I'm actively seeking a remote **Software Engineer Internship** opportunity.
 
 ---
@@ -40,5 +40,5 @@ I'm a final-year Computer Science student passionate about building full-stack a
 ### 🔗 Connect with Me
 
 <p>
-<a href="https://linkedin.com/in/[Username-LinkedIn-Kamu]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[Username-LinkedIn-Kamu]" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bimo-birra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bimo Birra" height="30" width="40" /></a>
 </p>
