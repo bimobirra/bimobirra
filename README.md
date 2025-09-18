@@ -10,7 +10,6 @@ I'm a third-year Computer Science student passionate about building full-stack a
 - 🌱 I’m deepening my knowledge in microservices architecture and cloud deployment.
 - 👯 I’m looking to collaborate on open-source projects related to Java or Python.
 - 📫 How to reach me: bimobirra42@gmail.com
-- 💼 I'm actively seeking a remote **Software Engineer Internship** opportunity.
 
 ---
 
