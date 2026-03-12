@@ -6,10 +6,9 @@ I'm a full-time Software Engineer and a 5th-semester Information Systems student
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working as a Software Engineer at **Tigernix**.
-- 🧠 I’m deeply involved in academic research, specifically **fine-tuning** NLP models (like XLM-R) for sentiment analysis on code-mixed languages.
-- 🌱 I’m currently focusing on modern backend development using Python (FastAPI/Flask) and expanding my knowledge in Cloud deployment and DevOps.
-- ⚡ **Fun fact:** When I'm not debugging code or running a dataset, I'm usually doing calisthenics or listening to Japanese indie bands.
+- 🔭 I’m currently working as a Software Engineer.
+- 🌱 I’m currently focusing on modern backend development and expanding my knowledge in Cloud deployment and DevOps.
+- ⚡ **Fun fact:** When I'm not debugging code, I'm usually doing listening to Japanese indie bands.
 - 📫 How to reach me: **bimobirra42@gmail.com**
 
 ---
@@ -50,14 +49,6 @@ I'm a full-time Software Engineer and a 5th-semester Information Systems student
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
-
----
-
-### 🚀 Currently Learning
-<p>
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="GoLang" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu/WSL" />
 </p>
 
 ---
