@@ -1,62 +1,90 @@
-### Hi there, I'm Bimo 👋
+# Hi there, I'm Bimo 👋
 
-I'm a full-time Software Engineer and a 5th-semester Information Systems student. I am highly passionate about backend architecture, machine learning, and building scalable full-stack applications.
+<div align="center">
+  <img src="https://media.giphy.com/media/pO4UHglOY2vII/giphy.gif" alt="BMO Dancing" width="300"/>
+</div>
+<br/>
 
----
 
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working as a Software Engineer.
-- 🌱 I’m currently focusing on modern backend development and expanding my knowledge in Cloud deployment and DevOps.
-- ⚡ **Fun fact:** When I'm not debugging code, I'm usually doing listening to Japanese indie bands.
-- 📫 How to reach me: **bimobirra42@gmail.com**
+Full-time Software Engineer | Backend Architecture Enthusiast | DevOps & Cloud Deployment 
+Passionate about building scalable, robust backend systems and exploring modern infrastructure solutions. I love designing clean APIs and optimizing databases
 
 ---
 
-### 🛠️ My Tech Stack
+## 🔭 What I'm Currently Up To
 
-**Languages**
+- **Building:** Production-grade backend services with modern architectural patterns
+- **Learning:** DevOps practices and cloud-native architecture
+- **Listening to:** Mostly Yorushika and Lamp 🎧
+---
+
+## 💼 Tech Stack
+
+### **Languages**
+
+
 <p>
+  <img src="https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
 </p>
 
-**Backend & Frontend Development**
+
+### **Backend Development**
+
 <p>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-**Databases**
+
+### **Databases & Data**
+
 <p>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
-**Machine Learning & Data Science**
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-</p>
+### **DevOps & Cloud**
 
-**Tools & Infrastructure**
 <p>
+
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+
+
+</p>
+
+
+### **Tools & Utilities**
+
+<p>
+
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+
 </p>
 
 ---
 
-### 🔗 Connect with Me
-
+## 📫 Get in Touch
 <p>
+
+
+
   <a href="https://www.linkedin.com/in/bimo-birra/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
+
+
+  <a href="mailto:bimobirra42@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+
+
 </p>
+
+---
