@@ -1,9 +1,5 @@
 # Hi there, I'm Bimo 👋
 
-<div align="center">
-  <img src="https://media.giphy.com/media/pO4UHglOY2vII/giphy.gif" alt="BMO Dancing" width="300"/>
-</div>
-<br/>
 
 
 Full-time Software Engineer | Backend Architecture Enthusiast | DevOps & Cloud Deployment 
